@@ -18,8 +18,7 @@ mysqli_close($con);
 
 <head>
     <meta charset="UTF-8">
-    <title>GFG User Details</title>
-
+    <title>New born</title>
     <style>
         table {
             margin: 0 auto;
